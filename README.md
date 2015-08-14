@@ -8,6 +8,6 @@ This library focused on simplifying OpenGL to a core of modern features. These f
 
 ### Highlights ###
 
-* For an algorithm written in a pure functional style, see [TextureAtlas.fs]().
-* For some ordinary OpenGL code, see [Guts.fs]().
-* To see the beginnings of a pure functional DSL for generating shaders and controlling the graphics pipeline, see [ShaderDSL.fs]().
+* For an algorithm written in a pure functional style, see [TextureAtlas.fs](https://github.com/nepp2/SmallGL/blob/master/SmallGL/TextureAtlas.fs).
+* For some ordinary OpenGL code, see [Guts.fs](https://github.com/nepp2/SmallGL/blob/master/SmallGL/Guts.fs).
+* To see the beginnings of a pure functional DSL for generating shaders and controlling the graphics pipeline, see [ShaderDSL.fs](https://github.com/nepp2/SmallGL/blob/master/SmallGL/ShaderDSL.fs).
