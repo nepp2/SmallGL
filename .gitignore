@@ -1,0 +1,12 @@
+syntax: glob
+*.suo
+Thumbs.db
+SmallGL/bin
+SmallGL/obj
+SmallGL/examples/Pong/bin
+SmallGL/examples/Pong/obj
+SmallGL/examples/Pong/packages
+SmallGL/packages
+SmallGL/examples/Perlin/obj/
+SmallGL/examples/Perlin/packages/
+*.userprefs
